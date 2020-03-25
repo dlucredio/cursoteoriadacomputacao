@@ -1,4 +1,4 @@
-# cursoteoriadacomputacao# Teoria da Computação / Linguagens Formais e Autômatos
+# Teoria da Computação / Linguagens Formais e Autômatos
 
 Neste repositório encontram-se os materiais didáticos da disciplina de Teoria da Computação/Linguagens Formais e Autômatos, incluindo notas de aula, exemplos de código e listas de exercícios.
  
